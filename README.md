@@ -1,4 +1,15 @@
 # Functions
+1. What is the process of declaring and invoking a function in Dart?
+2. Is it possible to define a function without specifying a return type or using the void keyword in Dart?
+3. What are the different types of parameters that can be used in Dart functions?
+4. Is it possible to pass named parameters before the positional parameters in Dart?
+5. Is it possible to make a named parameter optional in Dart?
+6. Can optional parameters in Dart be positional?
+7. Is it possible to pass named parameters positionally in Dart?
+8. Are named parameters in Dart required or are they always optional?
+9. Is it possible to pass optional and named parameters in any order, including before or in between positional parameters, in Dart?
+10. Are positional perameters also required perameters?
+11. it is not possible to make named parameters optional without providing a default value?
 # OOP Question of Dart
 1. What is the purpose of using variables prior to the constructor function and what term is used to refer to these variables?
 2. Is it possible to skip defining variables before the constructor function?
