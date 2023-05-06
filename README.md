@@ -3,3 +3,4 @@
 2. Is it possible to skip defining variables before the constructor function?
 3. Even though variables can be assigned null values, why do we still utilize null safety in Dart?
 4. Is it accurate to say that the constructor function receives arguments and assigns them to the instance variables of the class, which are then used by the methods to perform their actions?
+5. Is it possible to declare or define a new instance variable for a Dart class from outside the class definition?
