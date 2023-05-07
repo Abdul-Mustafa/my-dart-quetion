@@ -21,3 +21,5 @@
 6. What is the purpose of using the keyword in Dart classes?
 7. What tasks can be performed in the body of a constructor function of a Dart class?
 8. Is it possible to have a constructor function without a body in Dart classes?
+# Keywords(assert,)
+1. Why we use assert keyword?
