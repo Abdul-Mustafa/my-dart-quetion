@@ -10,6 +10,8 @@
 9. Is it possible to pass optional and named parameters in any order, including before or in between positional parameters, in Dart?
 10. Are positional perameters also required perameters?
 11. it is not possible to make named parameters optional without providing a default value?
+12. What is the method to assign a default value to positional parameters?
+13. Can a positional parameter with a default value be positioned before all other parameters in Dart?
 # OOP Question of Dart
 1. What is the purpose of using variables prior to the constructor function and what term is used to refer to these variables?
 2. Is it possible to skip defining variables before the constructor function?
