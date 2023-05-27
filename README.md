@@ -1,10 +1,10 @@
 # Flutter
-- Front End
-- Back End 
+## Front End
+## Back End 
 1. Which programming languages or technologies are commonly used for developing the backend of Flutter applications?
-- <---------------------------------------------------------------------------------------------------->
+# <---------------------------------------------------------------------------------------------------->
 # Dart
-# Functions
+## Functions
 1. What is the process of declaring and invoking a function in Dart?
 2. Is it possible to define a function without specifying a return type or using the void keyword in Dart?
 3. What are the different types of parameters that can be used in Dart functions?
@@ -22,7 +22,7 @@
 15. What is Lexical scope?
 16. What is Lexical closures?
 17. Why we use Function keyword?
-# OOP
+## OOP
 1. What is the purpose of using variables prior to the constructor function and what term is used to refer to these variables?
 2. Is it possible to skip defining variables before the constructor function?
 3. Even though variables can be assigned null values, why do we still utilize null safety in Dart?
@@ -32,6 +32,6 @@
 7. What tasks can be performed in the body of a constructor function of a Dart class?
 8. Is it possible to have a constructor function without a body in Dart classes?
 9. how can I create a custom type in dart and then return this type by a function?
-# Keywords(assert,)
+## Keywords(assert,)
 1. Why we use assert keyword?
 
