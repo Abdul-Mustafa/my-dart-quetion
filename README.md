@@ -1,7 +1,7 @@
 # Flutter
 ## Front End
 ### Compiling
-1. What is <a href="https://skia.org/" target="_blank">skia</a>?
+1. What is [skia](https://skia.org/)?
 ## Back End 
 1. Which programming languages or technologies are commonly used for developing the backend of Flutter applications?
 # Dart
