@@ -1,7 +1,7 @@
 # Flutter
 ## Front End
 ### Compiling
-# What is [skia](https://skia.org/)?
+1. What is [skia](https://skia.org/)?
 ## Back End 
 1. Which programming languages or technologies are commonly used for developing the backend of Flutter applications?
 # Dart
