@@ -6,6 +6,7 @@
 1. Which programming languages or technologies are commonly used for developing the backend of Flutter applications?
 ## Testing
 1.What is unit testing?
+2. what is cosmetic issues?
 # Dart
 ## Compiling
 1. what are Just In Time (JIT) compiling and Ahead of Time (AOT) compiling?
