@@ -10,6 +10,7 @@
 # Dart
 1. What is syntactic sugar? [see answer](https://chat.openai.com/share/d0be362f-4dc7-4f40-ade7-d10cba53c65c)
 2. What is type inference?[see answer](https://chat.openai.com/share/9f564356-cd65-49a6-b5b3-4169103c4a33)
+3. What are inferred variables? [see answer](https://chat.openai.com/share/3bfe835d-6fdf-4812-9697-db65811b4149)
 ## Compiling
 1. what are Just In Time (JIT) compiling and Ahead of Time (AOT) compiling?
 ## Functions
