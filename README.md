@@ -9,7 +9,7 @@
 2. what is cosmetic issue?
 # Dart
 1. What is syntactic sugar? [see answer](https://chat.openai.com/share/d0be362f-4dc7-4f40-ade7-d10cba53c65c)
-2. What is type inference?
+2. What is type inference?[see answer](https://chat.openai.com/share/9f564356-cd65-49a6-b5b3-4169103c4a33)
 ## Compiling
 1. what are Just In Time (JIT) compiling and Ahead of Time (AOT) compiling?
 ## Functions
