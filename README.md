@@ -43,7 +43,7 @@
 9. how can I create a custom type in dart and then return this type by a function?
 10. What are generic classes?
 11. What are Getters and Setters?
-12. What is mixin in dart?
+12. What is mixins in dart?
 13. How it is different from classes?
 ## Keywords(assert,)
 1. Why we use assert keyword?
