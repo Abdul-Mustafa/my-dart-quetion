@@ -49,7 +49,7 @@
 14. What are Mixins in dart?
 15. Can Mixins declare constructors?
 16. Can Mixins be instantiated?
-17. How Mixins are distinct from classes?
+17. How Mixins are different from classes?
 ## Keywords(assert,)
 1. Why we use assert keyword?
 
