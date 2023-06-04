@@ -31,7 +31,7 @@
 15. What is Lexical scope?
 16. What is Lexical closures?
 17. Why we use Function keyword?
-## OOP
+## OOP(Generic Classes, Abstract Classes, Mixins, Interfaces)
 1. What is the purpose of using variables prior to the constructor function and what term is used to refer to these variables?
 2. Is it possible to skip defining variables before the constructor function?
 3. Even though variables can be assigned null values, why do we still utilize null safety in Dart?
