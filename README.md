@@ -44,10 +44,11 @@
 10. What are generic classes?
 11. What is interface in dart?
 12. What are Getters and Setters?
-### Mixins
+## Mixins
 14. What are mixins in dart?
 15. Can mixins declare constructors?
-16. How are mixins distinct from classes?
+16. Can mixins be instantiated?
+17. How mixins are distinct from classes?
 ## Keywords(assert,)
 1. Why we use assert keyword?
 
