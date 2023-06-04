@@ -42,6 +42,7 @@
 8. Is it possible to have a constructor function without a body in Dart classes?
 9. how can I create a custom type in dart and then return this type by a function?
 10. What are generic classes?
+11. What are Getters and Setters?
 ## Keywords(assert,)
 1. Why we use assert keyword?
 
