@@ -44,7 +44,7 @@
 10. What are generic classes?
 11. What are Getters and Setters?
 12. What is mixin in dart?
-13. How it is different from classes?
+13. How are mixins distinct from classes?
 ## Keywords(assert,)
 1. Why we use assert keyword?
 
