@@ -42,9 +42,10 @@
 8. Is it possible to have a constructor function without a body in Dart classes?
 9. how can I create a custom type in dart and then return this type by a function?
 10. What are generic classes?
-11. What are Getters and Setters?
-12. What is mixin in dart?
-13. How are mixins distinct from classes?
+11. What is interface in dart?
+12. What are Getters and Setters?
+13. What is mixin in dart?
+14. How are mixins distinct from classes?
 ## Keywords(assert,)
 1. Why we use assert keyword?
 
