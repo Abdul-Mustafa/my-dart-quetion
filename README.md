@@ -43,6 +43,8 @@
 9. How can I create a custom types in dart and then return this type by a function?
 ## Fields
 10. What are the fields in dart programming language?
+11. What are the different parts of fields in dart?
+12. Can we associate the static fields with Constructor?
 ## Constructor
 ## What is the Constructor function?
 10. Why do we create more than one constructor?
