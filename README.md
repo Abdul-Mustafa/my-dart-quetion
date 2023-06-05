@@ -8,12 +8,14 @@
 1. What is unit testing?
 2. what is cosmetic issue?
 # Dart
+1. Dart is a statically typed language, what does it mean?
 1. What is syntactic sugar? [see answer](https://chat.openai.com/share/d0be362f-4dc7-4f40-ade7-d10cba53c65c)
 2. What is type inference?[see answer](https://chat.openai.com/share/9f564356-cd65-49a6-b5b3-4169103c4a33)
 3. What are inferred variables? [see answer](https://chat.openai.com/share/3bfe835d-6fdf-4812-9697-db65811b4149)
 ## Compiling
 1. what are Just In Time (JIT) compiling and Ahead of Time (AOT) compiling?
 ## Functions
+1. How can we pass arguments to the reference of the function?
 1. What is the process of declaring and invoking a function in Dart?
 2. Is it possible to define a function without specifying a return type or using the void keyword in Dart?
 3. What are the different types of parameters that can be used in Dart functions?
