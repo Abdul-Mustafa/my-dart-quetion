@@ -38,11 +38,11 @@
 4. Is it accurate to say that the constructor function receives arguments and assigns them to the instance variables of the class, which are then used by the methods to perform their actions?
 5. Is it possible to declare or define a new instance variable for a Dart class from outside the class definition?
 6. What is the purpose of using the keyword in Dart classes?
-7. What tasks can be performed in the body of a constructor function of a Dart class?
-8. Is it possible to have a constructor function without a body in Dart classes?
-9. how can I create a custom type in dart and then return this type by a function?
+9. How can I create a custom type in dart and then return this type by a function?
 ## Constructor
 10. Why do we create more than one constructor?
+11. What tasks can be performed in the body of a constructor function of a Dart class?
+12. Is it possible to have a constructor function without a body in Dart classes?
 ## Getters and Setters
 11. What are Getters and Setters?
 ## Abstract Classes
