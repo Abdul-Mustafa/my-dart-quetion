@@ -15,26 +15,27 @@
 ## Compiling
 1. what are Just In Time (JIT) compiling and Ahead of Time (AOT) compiling?
 ## Functions
-1. How can we pass arguments to the reference of the function?
 1. What is the process of declaring and invoking a function in Dart?
-2. Is it possible to define a function without specifying a return type or using the void keyword in Dart?
-3. What are the different types of parameters that can be used in Dart functions?
-4. Is it possible to pass named parameters before the positional parameters in Dart?
-5. Is it possible to make a named parameter optional in Dart?
-6. Can optional parameters in Dart be positional?
-7. Is it possible to pass named parameters positionally in Dart?
-8. Are named parameters in Dart required or are they always optional?
-9. Is it possible to pass optional and named parameters in any order, including before or in between positional parameters, in Dart?
-10. Are positional perameters also required perameters?
-11. it is not possible to make named parameters optional without providing a default value?
-12. What is the method to assign a default value to positional parameters?
-13. Can a __positional parameter__ with a default value be positioned before all other parameters in Dart?
-14. What are __anonymous functions__?
-15. What is __Lexical scope__?
-16. What is __Lexical closures__?
-17. Why we use Function keyword?
-18. What is **"function currying"** or __"partial application"__?
-19. What is the __Callback Function__?
+1. What is the reference to a function?
+1. How can we pass arguments to the reference of the function?
+3. Is it possible to define a function without specifying a return type or using the void keyword in Dart?
+4. What are the different types of parameters that can be used in Dart functions?
+5. Is it possible to pass named parameters before the positional parameters in Dart?
+6. Is it possible to make a named parameter optional in Dart?
+7. Can optional parameters in Dart be positional?
+8. Is it possible to pass named parameters positionally in Dart?
+9. Are named parameters in Dart required or are they always optional?
+10. Is it possible to pass optional and named parameters in any order, including before or in between positional parameters, in Dart?
+11. Are positional perameters also required perameters?
+12. it is not possible to make named parameters optional without providing a default value?
+13. What is the method to assign a default value to positional parameters?
+14. Can a __positional parameter__ with a default value be positioned before all other parameters in Dart?
+15. What are __anonymous functions__?
+16. What is __Lexical scope__?
+17. What is __Lexical closures__?
+18. Why we use Function keyword?
+19. What is **"function currying"** or __"partial application"__?
+20. What is the __Callback Function__?
 ## OOP(Fields, Generic Classes, Abstract Classes, Mixins, Interfaces)
 1. What is the purpose of using variables prior to the constructor function and what term is used to refer to these variables?
 2. Is it possible to skip defining variables before the constructor function?
