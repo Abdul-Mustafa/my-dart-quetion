@@ -13,7 +13,7 @@
 3. What are inferred variables? [see answer](https://chat.openai.com/share/3bfe835d-6fdf-4812-9697-db65811b4149)
 ## Compiling
 1. what are Just In Time (JIT) compiling and Ahead of Time (AOT) compiling?
-## __Functions__
+## Functions
 1. What is the process of declaring and invoking a function in Dart?
 2. Is it possible to define a function without specifying a return type or using the void keyword in Dart?
 3. What are the different types of parameters that can be used in Dart functions?
