@@ -31,7 +31,7 @@
 15. What is Lexical scope?
 16. What is Lexical closures?
 17. Why we use Function keyword?
-18. What is "function currying" or "partial application"?
+18. What is **"function currying"** or __"partial application"__?
 ## OOP(Generic Classes, Abstract Classes, Mixins, Interfaces)
 1. What is the purpose of using variables prior to the constructor function and what term is used to refer to these variables?
 2. Is it possible to skip defining variables before the constructor function?
