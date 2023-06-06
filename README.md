@@ -38,13 +38,20 @@
 19. What is **"function currying"** or __"partial application"__?
 20. What is the __Callback Function__?
 ## OOP(Fields, Generic Classes, Abstract Classes, Mixins, Interfaces)
+1. What is __OOP(Object Oriented Programming)__?
 1. What is the purpose of using variables prior to the constructor function and what term is used to refer to these variables?
-2. Is it possible to skip defining variables before the constructor function?
-3. Even though variables can be assigned null values, why do we still utilize null safety in Dart?
-4. Is it accurate to say that the constructor function receives arguments and assigns them to the instance variables of the class, which are then used by the methods to perform their actions?
-5. Is it possible to declare or define a new instance variable for a Dart class from outside the class definition?
-6. What is the purpose of using the keyword in Dart classes?
-9. How can I create a custom types in dart and then return this type by a function?
+2. What are the main principles of OOP?
+3. What is __Encapsulation__?
+4. What is __Inheritance__?
+5. What is __Polymorphism__?
+6. What is __Abstraction__?
+7. Is it possible to skip defining variables before the constructor function?
+8. Even though variables can be assigned null values, why do we still utilize null safety in Dart?
+9. Is it accurate to say that the constructor function receives arguments and assigns them to the instance variables of the class, which are then used by the methods to perform their actions?
+10. Is it possible to declare or define a new instance variable for a Dart class from outside the class definition?
+11. What is the purpose of using the keyword in Dart classes?
+12. How can I create a custom types in dart and then return this type by a function?
+13. Is it required to use the @override annotation?
 ## Fields
 10. What are the fields in dart programming language?
 11. What are the different parts of fields in dart?
@@ -52,7 +59,7 @@
 13. Can we associate the static fields with Constructor?
 14. What are visibility modifiers in dart?
 ## Constructor
-## What is the Constructor function?
+1. What is the Constructor function?
 10. Why do we create more than one constructor?
 11. What tasks can be performed in the body of a constructor function of a Dart class?
 12. Is it possible to have a constructor function without a body in Dart classes?
@@ -60,6 +67,7 @@
 11. What are Getters and Setters?
 ## Abstract Classes
 13. Whare are Abstract Classes?
+14. 
 ## Interfaces
 15. What are Interfaces in dart?
 ## Generic Classes
