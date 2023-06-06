@@ -51,7 +51,7 @@
 10. Is it possible to declare or define a new instance variable for a Dart class from outside the class definition?
 11. What is the purpose of using the keyword in Dart classes?
 12. How can I create a custom types in dart and then return this type by a function?
-13. Is it required to use the @override annotation?
+13. Is it required to use the __@override__ annotation?
 ## Fields
 10. What are the fields in dart programming language?
 11. What are the different parts of fields in dart?
