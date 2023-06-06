@@ -16,8 +16,9 @@
 1. what are Just In Time (JIT) compiling and Ahead of Time (AOT) compiling?
 ## Functions
 1. What is the process of declaring and invoking a function in Dart?
-1. What is the reference to a function?
-1. How can we pass arguments to the reference of the function?
+1. What is the __reference__ to a function?
+1. How can we pass __arguments to the reference__ of the function?
+2. If a function takes an argument of type T can we pass the pass a function to it that return the value of type T?
 3. Is it possible to define a function without specifying a return type or using the void keyword in Dart?
 4. What are the different types of parameters that can be used in Dart functions?
 5. Is it possible to pass named parameters before the positional parameters in Dart?
