@@ -1,4 +1,9 @@
 # Flutter
+1. What are Material, Cupertino, and Fluent in the context of Flutter?
+2. What is Widget in Flutter?
+3. What are stateless and stateful widgets?
+4. What is Scaffold Widget?
+5. Is it possible to use Scaffold outside of MaterialApp? If not, what is the reason for this limitation?
 ## Front End
 ### Compiling
 1. What is [skia](https://skia.org/)?
