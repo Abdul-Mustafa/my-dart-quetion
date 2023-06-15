@@ -4,6 +4,9 @@
 3. What are stateless and stateful widgets?
 4. What is Scaffold Widget?
 5. Is it possible to use Scaffold outside of MaterialApp? If not, what is the reason for this limitation?
+## State Management
+1. What is State Managment in flutter?
+2. What are the different state builders in flutter and which is the best?
 ## Front End
 ### Compiling
 1. What is [skia](https://skia.org/)?
