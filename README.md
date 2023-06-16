@@ -7,6 +7,7 @@
 ## State Management
 1. What is State Managment in flutter?
 2. What are the different state builders in flutter and which is the best?
+3. What are bloc, riverpod, provider, GetX in flutter?
 ## Front End
 ### Compiling
 1. What is [skia](https://skia.org/)?
