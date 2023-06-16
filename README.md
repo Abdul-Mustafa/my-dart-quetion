@@ -1,13 +1,13 @@
 # Flutter
-1. What are Material, Cupertino, and Fluent in the context of Flutter?
-2. What is Widget in Flutter?
-3. What are stateless and stateful widgets?
-4. What is Scaffold Widget?
-5. Is it possible to use Scaffold outside of MaterialApp? If not, what is the reason for this limitation?
+1. What are __Material__, __Cupertino__, and __Fluent__ in the context of Flutter?
+2. What is __Widget__ in Flutter?
+3. What are __stateless__ and __stateful widgets__?
+4. What is __Scaffold Widget__?
+5. Is it possible to use __Scaffold__ outside of __MaterialApp__? If not, what is the reason for this limitation?
 ## State Management
-1. What is State Managment in flutter?
-2. What are the different state builders in flutter and which is the best?
-3. What are bloc, riverpod, provider, GetX in flutter?
+1. What is __State Managment__ in flutter?
+2. What are the different __state builders__ in flutter and which is the best?
+3. What are __bloc__, __riverpod__, __provider__, __GetX__ in flutter?
 ## Front End
 ### Compiling
 1. What is [skia](https://skia.org/)?
