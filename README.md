@@ -8,6 +8,8 @@
 1. What is __State Managment__ in flutter?
 2. What are the different __state builders__ in flutter and which is the best?
 3. What are __bloc__, __riverpod__, __provider__, __GetX__ in flutter?
+4. What is __TextEditingController class__?
+5. what is the use of __setState__ method?
 ## Front End
 ### Compiling
 1. What is [skia](https://skia.org/)?
