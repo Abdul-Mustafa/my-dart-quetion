@@ -48,6 +48,9 @@
 18. Why we use Function keyword?
 19. What is **"function currying"** or __"partial application"__?
 20. What is the __Callback Function__?
+## Higher Order Functions
+1. What are __higher order functions__ in dart?
+2. Do you know about these functions __(forEach, where, any, every, map, expand, reduce, fold, skip, skipWhile, take, takeWhile, sort, sortBy, toList, toSet)__?
 ## OOP(Fields, Generic Classes, Abstract Classes, Mixins, Interfaces)
 1. What is __OOP(Object Oriented Programming)__?
 1. What is the purpose of using variables prior to the constructor function and what term is used to refer to these variables?
